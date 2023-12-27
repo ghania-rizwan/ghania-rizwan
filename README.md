@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 Currently engaged in MERN stack development<br>👯 Actively seeking collaboration opportunities with open source projects<br>🤝 Seeking guidance and support in securing an internship<br>🌱 Exploring and expanding skills in App development<br>💬 Feel free to ask me about Programming and web technologies.<br><br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hani_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghania-rizwan) 
 
