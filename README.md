@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi 👋🏻 My name is Ghania Rizwan
+##### Web Developer
 
-<!--
-**ghania-rizwan/ghania-rizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a self-taught web developer with expertise in frontend technologies. Currently, I am expanding my skills by learning React JS, while also possessing practical experience in backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Pakistan
+- ✉️ You can contact me at [ghania1422@gmail.com](mailto:ghania1422@gmail.com)
+- 🧠 I'm learning App Development using React Native
+- ⚡ I am also a good illustrator and graphics artist
+### Skills
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/javascript-colored.svg" width="35" height="35" alt="JavaScript" /> </a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/html5-colored.svg" width="35" height="35" alt="HTML5" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/react-colored.svg" width="35" height="35" alt="React" /> </a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/css3-colored.svg" width="35" height="35" alt="CSS3" /> </a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/sass-colored.svg" width="35" height="35" alt="Sass" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/tailwindcss-colored.svg" width="35" height="35" alt="TailwindCSS" /> </a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/bootstrap-colored.svg" width="35" height="35" alt="Bootstrap" /> </a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/nodejs-colored.svg" width="35" height="35" alt="NodeJS" /> </a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/express-colored.svg" width="35" height="35" alt="Express" /> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/mongodb-colored.svg" width="35" height="35" alt="MongoDB" /> </a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/photoshop-colored.svg" width="35" height="35" alt="Photoshop" /> </a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/illustrator-colored.svg" width="35" height="35" alt="Illustrator" /> </a>
+
+### Socials
+
+
+<a href="https://github.com/ghania-rizwan" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/github-dark.svg" width="38" height="38" alt="github-dark" /> </a><a href="https://www.linkedin.com/in/ghania-rizwan-4ba77a1b0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/linkedin.svg" width="38" height="38" alt="linkedin" /> </a><a href="https://instagram.com/selfmade_.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/instagram.svg" width="38" height="38" alt="instagram" /> </a>
