@@ -2,11 +2,11 @@
 ##### Web Developer
 
 
-I am a self-taught web developer with expertise in frontend technologies. Currently, I am expanding my skills by learning React JS, while also possessing practical experience in backend development.
+I am a self-taught developer with expertise in frontend technologies. Currently, I am expanding my skills by learning React JS, while also possessing practical experience in backend development.
 
 - 🌍 I'm based in Pakistan
 - ✉️ You can contact me at [ghania1422@gmail.com](mailto:ghania1422@gmail.com)
-- 🧠 I'm learning App Development using React Native
+- 🧠 I'm learning App Development using Flutter
 - ⚡ I am also a good illustrator and graphics artist
 ### Skills
 
